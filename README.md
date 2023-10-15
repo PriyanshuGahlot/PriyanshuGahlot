@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am also very interested in AI/ML and automated robots.**
 
+  <br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img align="top" src="https://skillicons.dev/icons?i=androidstudio,unity,arduino,blender,cs,cpp,java,python,bots,firebase,git,github,mysql,js,html,css&perline=4" />
