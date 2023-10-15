@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gahlot</h1>
 <h3 align="center">A passionate Game/Web/App Developer from India</h3>
 
+<br>
+
 - 🔭 I’m currently working on **some personal Unity and Android. projects**
 
 - 🌱 I’m currently learning **Machine Learning and MERN.**
