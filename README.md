@@ -1,5 +1,5 @@
-<p style="display: flex;  justify-content: center; "width=100%">
-        <p style="display: flex; flex-direction: row; align-items: center;>
+<p align = "center">
+        <p align = "center">
             <a href="https://skillicons.dev">
                 <img
                     src="https://skillicons.dev/icons?i=androidstudio,unity,arduino,blender,cs,cpp,java,python,bots,firebase,git,github,mysql,js,html,css&perline=4" />
