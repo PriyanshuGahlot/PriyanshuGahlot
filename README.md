@@ -1,5 +1,5 @@
-<p align="center" style = "display:flex;">
-  <a href="https://skillicons.dev">
+<p align="center">
+  <a href="https://skillicons.dev" align= "top">
     <img src="https://skillicons.dev/icons?i=androidstudio,unity,arduino,blender,cs,cpp,java,python,bots,firebase,git,github,mysql,js,html,css&perline=4" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
