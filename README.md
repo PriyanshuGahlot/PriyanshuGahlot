@@ -1,4 +1,4 @@
-<p align="center" style = "display=flex;">
+<p align="center" style = "display:flex;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,unity,arduino,blender,cs,cpp,java,python,bots,firebase,git,github,mysql,js,html,css&perline=4" />
   </a>
