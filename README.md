@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Unity Game Projects, Java and Cpp App projects and Front-end projects.**
 
-- 👨‍💻 All of my projects are available at [Itch](https://priyanshu-gahlot.itch.io/)
+- 👨‍💻 All of my Indie Games are available at [Itch](https://priyanshu-gahlot.itch.io/)
 
 - 📫 How to reach me **anshu2084gahlot@gmail.com**
 
