@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gahlot</h1>
-<h3 align="center">A passionate Game/Web/App Developer from India</h3>
+<h3 align="center">A passionate Game/Web/Android Developer from India</h3>
 
 <br>
 
