@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anshu2084gahlot@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/10UggpyHintvSHlS_8AVhJ6qYZTVWmJmv/view?usp=sharing](https://drive.google.com/file/d/1Ksp2w3-n0K-YkpFNxMpuB7HYt_Z3mMQB/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ksp2w3-n0K-YkpFNxMpuB7HYt_Z3mMQB/view?usp=drive_link)
 
 - ⚡ Fun fact **I am also very interested in AI/ML and automated robots.**
 
