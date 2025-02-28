@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuGahlot&layout=donut&langs_count=20&hide=ShaderLab,HLSL">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuGahlot&layout=donut&langs_count=6&hide=ShaderLab,HLSL">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev">
